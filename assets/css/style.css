@@ -271,9 +271,9 @@ h1 { position:static;
 li { float:left;
 width:33%;}
 
-#index-content{ width: 90%;
+#index-content{ width: 85%;
 				float:left;
-				margin left:5%;
+				margin:10px;
 			}
 
 #mylinks{ width: 90%;
