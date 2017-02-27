@@ -280,11 +280,13 @@ width:33%;}
 				float:left;
 				margin: 10px 5px 10px 5px;}
 
-#portfolio-content { width: 80%; }
+#portfolio-content { width: 85%; 
+					margin: 10px;}
 
 #portfolio-content div { width:90%; }
 
-
+#contact-content {width:85%;
+					margin: 10px;}
 
 }
 
