@@ -273,19 +273,18 @@ width:33%;}
 
 #index-content{ width: 90%;
 				float:left;
-				margin: 3% 1% 3% 1%;}
+				margin left:5%;
+			}
 
 #mylinks{ width: 90%;
 				float:left;
 				margin: 10px 5px 10px 5px;}
 
-#portfolio-content { width: 38%; }
+#portfolio-content { width: 80%; }
 
 #portfolio-content div { width:90%; }
 
-#portfolio-aside{ width:40%;
-					float:left; }
-#portfolio-aside h3{ font-size:20px; }
+
 
 }
 
