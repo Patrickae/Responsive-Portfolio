@@ -222,28 +222,61 @@ button { background-color: #4aaaa5;
 	
 
 }
-
-
 @media screen and (max-width: 980px){
 
-	 body{
- 	width:768px;
- }
+	 body{width:100%;}
 
- #index-content { width:80%;
- 			margin: 20px 20px 20px 10px; }
+li { margin-right: 50px; }
 
-#mylinks { width:80%;
+ #index-content { width:40%;
+ 			margin: 20px 20px 20px 60px; }
+ #index-content img{ width:85%;
+ 					margin: 10px 40px 10px 40px; }
+
+
+ #portfolio-content{ width:40%; }
+
+ #portfolio-content div { width:70%;
+						height: 300px;
+						margin: 10px 50px;}
+
+#mylinks { width:30%;
  }
 
 }
+
+
+
+
+
 
 
 @media screen and (max-width: 768px){
 
-body{ width: 640px; }
+#header{width:100%;}
+
+li{ margin-right:40px; }
+
+body{ width: 100%; }
+
+#index-content img{ width:50%;
+					margin: 10px 50px; }
+#portfolio-content { width: 85%; 
+					margin: 10px;
+					}
+#portfolio-content div{width:45%;
+						margin:10px;}					
+
+#contact-content {width:85%;
+					margin: 10px;}
 
 }
+
+
+
+
+
+
 
 
 @media screen and (max-width: 640px){
@@ -269,26 +302,43 @@ h1 { position:static;
 	 }
 
 li { float:left;
-width:33%;}
+	margin-right:0;
+
+	width:33%;}
 
 #index-content{ width: 85%;
 				float:left;
 				margin:10px;
 			}
+#index-content img{ width:80%;
+					margin: 10px 50px; }
 
 #mylinks{ width: 90%;
 				float:left;
 				margin: 10px 5px 10px 5px;}
 
 #portfolio-content { width: 85%; 
-					margin: 10px;}
+					margin: 10px;
+					}
 
-#portfolio-content div { width:90%; }
+#portfolio-content div { width:70%;
+						height: 300px;
+						margin: 10px 50px;
+						 }
 
 #contact-content {width:85%;
 					margin: 10px;}
 
 }
+
+
+
+
+
+
+
+
+
 
 
 
